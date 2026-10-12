@@ -2,7 +2,7 @@
 
 互動式台股技術分析與智慧選股網站：K 線圖、MA／RSI／MACD／成交量指標、規則式綜合評分、條件選股、股票比較、觀察清單與 CSV 匯入。
 
-**網站連結：** https://ytomfang.github.io/TAICA_HW_StockLems/
+**網站連結：** https://ytomfang.github.io/TAICA_HW_StockLens/
 
 > 內建股價為程式模擬的示範資料，非真實行情。本網站僅供教學、研究及資訊整理用途，不構成投資建議，也不保證投資獲利。
 
